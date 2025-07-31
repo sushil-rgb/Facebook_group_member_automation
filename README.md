@@ -111,13 +111,6 @@ return await save_to_excel(member_datas, f"{file_name} members")
 
 ---
 
-## 🎥 Video Tutorial
-
-Watch the full step-by-step guide below:
-
-[📺 Watch Tutorial](https://www.youtube.com/watch?v=xJXzeuaRW4A)
-
----
 
 ## 📞 Support
 
